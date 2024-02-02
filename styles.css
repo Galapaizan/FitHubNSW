@@ -87,6 +87,13 @@
 }
 
 /* Other CSS styles */
+/* CSS for mobile */
+@media only screen and (max-width: 600px) {
+    .video-wrapper {
+        display: none;
+    }
+
+}
 /* Add your existing CSS styles here */
 
 /* Global Styles */
