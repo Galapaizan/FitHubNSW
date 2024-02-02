@@ -88,11 +88,10 @@
 
 /* Other CSS styles */
 /* CSS for mobile */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) and (orientation: landscape) {
     .video-wrapper {
         display: none;
     }
-
 }
 /* Add your existing CSS styles here */
 
